@@ -171,7 +171,7 @@ This provides the ability to examine the dashboard metrics across different year
 
 ## 📊 Dashboard Preview
 
-![Amazon Sales Dashboard](screenshots/amazon-sales-dashboard.png)
+![Amazon Sales Dashboard](amazon-sales-dashboard.png)
 
 ## 🔗 Interactive Tableau Dashboard
 
