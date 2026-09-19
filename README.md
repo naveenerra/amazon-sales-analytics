@@ -1,8 +1,6 @@
 # amazon-sales-analytics
 Amazon Sales Analytics dashboard built using Tableau to analyze sales performance, product trends and business KPIs.
 
-https://public.tableau.com/views/AmazonSalesAnalyticsProject/Dashboard1?%3Alanguage=en-US&%3Asid=&%3Aredirect=auth&%3Adisplay_count=n&%3Aorigin=viz_share_link&utm_source=chatgpt.com
-
 # Amazon Sales Analytics
 
 Tableau dashboard project analyzing Amazon sales data to identify sales trends, product performance and key business metrics.
@@ -27,7 +25,7 @@ The objective of this project is to analyze Amazon sales data and develop an int
 
 ## 📊 Dashboard Preview
 
-![Amazon Sales Dashboard](screenshots/amazon-sales-dashboard.png)
+![Amazon Sales Dashboard](amazon-sales-dashboard.png)
 
 ## 🔍 Analysis Performed
 
@@ -62,5 +60,4 @@ The dashboard analyzes areas such as:
 - KPI Analysis
 - Business Insights
 
-![Amazon Sales Dashboard](amazon-sales-dashboard.png)
 
