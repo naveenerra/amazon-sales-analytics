@@ -183,7 +183,7 @@ This provides the ability to examine the dashboard metrics across different year
 - Tableau
 - Data Visualization
 - Dashboard Development
-- KPI Development
+- KPI Analysis 
 - Business Analysis
 - Interactive Reporting
 - Trend Analysis
